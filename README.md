@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="id">
 <head>
 <meta charset="UTF-8">
@@ -767,7 +766,7 @@
   <div class="kajian-grid">
 
     <!-- Featured Card -->
-    <a href="tazkiyatun-nufus.html" class="kajian-card featured">
+    <a href="tazkiyatun-nufus.html" class="kajian-card" style="grid-column: 1 / -1;">
       <div class="card-top">
         <div class="featured-label">✦ Kajian Terbaru</div>
         <div class="card-tag tag-sea">Tazkiyah</div>
@@ -776,45 +775,14 @@
         <p class="card-desc">Menelusuri kiat-kiat membersihkan hati dari syirik, syahwat, dan syubhat berdasarkan Al-Qur'an dan Sunnah.</p>
       </div>
       <div class="card-bottom">
-        <div class="featured-desc">
-          <strong style="font-family:'Cormorant Garamond',serif; font-size:1.1rem; color:var(--ink);">Syaikh Prof. Dr. Abdurrazzaq Al-Badr</strong><br>
-          Disampaikan oleh Ustadz Ahmad Rasyid Bazher حفظه الله
+        <div class="card-meta">
+          <strong>Ustadz Ahmad Rasyid Bazher حفظه الله</strong>
         </div>
-        <div class="featured-kiat">
-          <span class="kiat-pill">Kiat 1: Tauhid</span>
-          <span class="kiat-pill">Kiat 2: Doa</span>
-          <span class="kiat-pill">Kiat 3: Al-Qur'an</span>
-          <span class="kiat-pill">Kiat 4: Ittiba'</span>
-          <span class="kiat-pill">Kiat 5: Jihad Nafs</span>
-        </div>
-        <a href="tazkiyatun-nufus.html" class="read-link">Baca catatan → </a>
+        <div class="card-arrow">→</div>
       </div>
     </a>
 
-    <!-- Placeholder cards -->
-    <div class="kajian-card" style="opacity:0.45; pointer-events:none;">
-      <div class="card-top">
-        <div class="card-tag tag-sage">Aqidah</div>
-        <div class="card-title">Kajian selanjutnya akan muncul di sini</div>
-        <p class="card-desc">Terus ikut kajian dan catat ilmunya — nanti kita masukkan ke sini bersama. 🌿</p>
-      </div>
-      <div class="card-bottom">
-        <div class="card-meta"><strong>Segera hadir</strong></div>
-        <div class="card-arrow">→</div>
-      </div>
-    </div>
 
-    <div class="kajian-card" style="opacity:0.25; pointer-events:none;">
-      <div class="card-top">
-        <div class="card-tag tag-warm">Akhlak</div>
-        <div class="card-title">Kajian berikutnya</div>
-        <p class="card-desc">Semoga Allah mudahkan kita terus menuntut ilmu.</p>
-      </div>
-      <div class="card-bottom">
-        <div class="card-meta"><strong>Segera hadir</strong></div>
-        <div class="card-arrow">→</div>
-      </div>
-    </div>
 
   </div>
 </section>
