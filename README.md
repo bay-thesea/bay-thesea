@@ -790,7 +790,7 @@
 <!-- QUOTE -->
 <div class="quote-section">
   <blockquote>
-    "Jiwa yang mulia tidak rela kecuali dengan perkara yang paling tinggi, paling utama, dan paling terpuji akibatnya."
+    "Ilmu meninggikan rumah yang tidak memiliki tiang penyangga, sedangkan kebodohan meruntuhkan rumah kemuliaan dan kehormatan."
   </blockquote>
   <cite>— Ibnul Qayyim Al-Jauziyyah رحمه الله · Madarij As-Salikin</cite>
 </div>
@@ -818,7 +818,7 @@
     <div class="about-card">
       <div class="card-wave">🌊</div>
       <h3>bay-thesea</h3>
-      <p>Catatan kajian ilmu syar'i — ditulis dengan niat semoga menjadi amal jariyah.</p>
+      <p>Catatan kajian — ditulis dengan niat semoga menjadi amal jariyah.</p>
       <div class="stat-row">
         <div class="stat">
           <div class="num">1</div>
@@ -830,7 +830,7 @@
         </div>
         <div class="stat">
           <div class="num">∞</div>
-          <div class="label">Semoga manfaat</div>
+          <div class="label">Semoga bermanfaat</div>
         </div>
       </div>
     </div>
